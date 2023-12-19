@@ -1,4 +1,14 @@
+Flask
+scikit-learn
+scipy
 pandas
 numpy
 seaborn
--e .
+matplotlib
+warnings
+catboost
+xgboost
+json
+pickle
+gunicorn
+
